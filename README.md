@@ -1,3 +1,5 @@
+NumPy 作为 Python 生态中最受欢迎的科学计算包，很多读者已经非常熟悉它了。它为 Python 提供高效率的多维数组计算，并提供了一系列高等数学函数，我们可以快速搭建模型的整个计算流程。毫不负责任地说，NumPy 就是现代深度学习框架的「爸爸」。
+
 # numpy-ml
 Ever wish you had an inefficient but somewhat legible collection of machine
 learning algorithms implemented exclusively in numpy? No? 
